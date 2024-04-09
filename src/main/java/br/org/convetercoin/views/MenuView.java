@@ -7,15 +7,16 @@ public class MenuView {
                 ************************************************
                 Seja bem-vindo(a) ao Conversor de Moeda
                                 
-                1) Moeda Brasileira -> Dólar Americano
-                2) Moeda Brasileira -> Euro
-                3) Moeda Brasileira -> Iene
-                4) Moeda Brasileira -> Dólar Australiano
-                5) Moeda Brasileira -> Moeda Coreana
-                6) Moeda Brasileira -> Moeda Briânica
-                7) Sair
+                1) Real -> Dólar Americano
+                2) Real -> Euro
+                3) Real -> Iene
+                4) Real -> Dólar Australiano
+                5) Real -> Moeda Coreana
+                6) Real -> Moeda Britânica
+                7) Verificar registro de logs
+                8) Sair
                 ************************************************
-                Escolha moeda que quer conveter:
+                Escolha uma opção:
                 """;
     }
 
